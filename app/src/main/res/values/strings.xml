@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneAssistHackthon</string>
+    <string name="msg_load_default">Loading</string>
+</resources>
